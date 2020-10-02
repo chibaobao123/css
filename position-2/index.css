@@ -1,0 +1,27 @@
+/* 
+position : static * | relative | fixed | absolute | sticky;
+top bottom left right
+ */
+
+
+
+.box{
+	height: 180px;
+	width: 180px;
+	color: #fff;
+	font-size: 20px;
+}
+.i-1{
+	background-color: red;
+}
+.i-2{
+	background-color: green;
+}
+.i-3{
+	background-color: blue; 		
+}
+.fixed{
+	position: fixed;
+	top: 10px;
+	right: 10px;
+}

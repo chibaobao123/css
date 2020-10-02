@@ -1,0 +1,32 @@
+/*
+States:
+	a:linnk
+	a:visited
+	a:hover
+	a:active 
+*/
+
+.default-link{
+	color: #853f29;
+}
+
+.default-link:link{
+	text-decoration: none;
+}
+.default-link:visited{
+	color: #853f29;
+}
+.default-link:hover {
+	text-decoration: underline;
+}
+.default-link:active{
+	color: red;
+}
+.button-link{
+	text-decoration: none;
+    background: #81b5de;
+    padding: 4px 6px
+}
+.button-link:hover {
+	background: #33658d ;
+}

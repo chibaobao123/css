@@ -1,0 +1,7 @@
+a[target]{
+	text-decoration: none;
+	color: #12aba6;
+}
+input[type="button"]{
+	border: 1px solid red
+}

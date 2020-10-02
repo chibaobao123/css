@@ -1,0 +1,23 @@
+/* 
+position : static * | relative | fixed | absolute | sticky;
+top bottom left right
+ */
+
+.container{
+	height: 180px;
+	width: 180px;
+	background-color: #ccc;
+}
+.item{
+	height: 140px;
+	width: 140px;
+	background-color: #aaa;
+	position: relative;
+}
+.item-1{
+	height: 90px;
+	width: 90px;
+	background-color: blue;
+	position: absolute;
+	bottom: 0;
+}
